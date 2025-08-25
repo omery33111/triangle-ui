@@ -2,16 +2,15 @@
 
 [![Last Commit on GitHub](https://img.shields.io/github/last-commit/omery33111/triangle-ui.svg)](https://github.com/omery33111/triangle-ui/commits/main)
 
+## Concept
+A website that allows users to enter the coordinates of three points and instantly receive a visual display of the triangle formed between them on a set of axes.
+
 ## Technologies
 * **HTML**
 
 * **CSS**
 
 * **JavaScript**
-
-## Concept
-
-A website that allows users to enter the coordinates of three points and instantly receive a visual display of the triangle formed between them on a set of axes.
 
 ## Contact
 
