@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-/* input_page */
+/* index.html */
 .container {
     width: 400px;
     margin: 50px auto;
@@ -27,7 +27,7 @@ button {
 
 
 
-/* output_page */
+/* output_page.html */
 .canvas {
     position: relative;
     width: 800px;
