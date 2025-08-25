@@ -1,4 +1,4 @@
-[![Live Netlify Server](https://img.shields.io/badge/Live%20on-Firebase-00ad9f.svg)](https://triangle-ui-task.netlify.app/)
+[![Live Netlify Server](https://img.shields.io/badge/Live%20on-Netlify-00ad9f.svg)](https://triangle-ui-task.netlify.app/)
 
 [![Last Commit on GitHub](https://img.shields.io/github/last-commit/omery33111/triangle-ui.svg)](https://github.com/omery33111/triangle-ui/commits/main)
 
